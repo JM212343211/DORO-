@@ -197,8 +197,8 @@ cd DORO- && nano settings.js
 </div>
 
 <div align="center" style="background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); padding: 25px; border-radius: 20px; margin: 30px 0; color: white; box-shadow: 0 15px 35px rgba(78, 205, 196, 0.3);">
-  <h2 style="margin-bottom: 10px;">📢 **EL BOT SE ACTUALIZA AUTOMÁTICAMENTE**</h2>
-  <p style="margin: 0; font-size: 18px;">✨ Mantenimiento semanal garantizado en este repositorio ✨</p>
+  <h2 style="margin-bottom: 10px;">📢 **EL BOT NO SE ACTUALIZA AUTOMÁTICAMENTE**</h2>
+  <p style="margin: 0; font-size: 18px;">✨ Mantenimiento garantizado en este repositorio ✨</p>
 </div>
 
 ---
