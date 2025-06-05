@@ -1,264 +1,323 @@
-<h1 align="center">👑『𝕬𝖘𝖙𝖆-𝕭𝖔𝖙』👑</h1>
-
-<p align="center">
- <img src= "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwEyPc2ZcSJLv1nKjMoNcqTD_PZl1Zk9ujraVrJSEw_efKhnurC6XGA6VOj73W-ygzfgfou1-g_3EzCX41BCiLXPvTjcIUy4BL78F9l9MuQlWAIg4E3DjO-Kx-qO-yIIhkOyeYaqDeyx8MW4EusFhzDUqID_Pk2RRUWhDfHErCquK71DBo9v4BhRjtXBNt/s736/b63bb3b9-7464-494f-937f-9aa4394cb124.jpg">
-</p>
-
 <div align="center">
-  <h2>
-    <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=700&size=30&duration=4000&pause=1000&color=00FF00&width=435&center=true&vCenter=true&random=false&width=435&lines=✨+ESTE+ES+EL+MEJOR+BOT+DE+WHATSAPP+✨;🔥+ASTA-BOT+PREMIUM+🔥;💫+VELOCIDAD+Y+ESTABILIDAD+💫" alt="Typing SVG" />
-    </a>
-  </h2>
+
+# 🌟『𝕯𝖔𝖗𝖔-𝕭𝖔𝖙』🌟
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 30px; border-radius: 25px; margin: 30px 0; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px); background-size: 20px 20px; animation: float 20s infinite linear;"></div>
+  <img src="https://github.com/Fer280809/Asta/blob/Doro_bot/src/catalogo.jpg" width="350" style="border-radius: 20px; box-shadow: 0 20px 60px rgba(0,0,0,0.4); border: 5px solid rgba(255,255,255,0.3); backdrop-filter: blur(10px); position: relative; z-index: 2;">
 </div>
 
-<h1 align="center">🌟 ¡SI ME DAS UNA ESTRELLA ME AYUDARÍA MUCHO! 🌟</h1>
+<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); padding: 25px; border-radius: 30px; margin: 25px 0; box-shadow: 0 15px 35px rgba(255, 154, 158, 0.4);">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&lines=✨+EL+BOT+MÁS+AVANZADO+DE+WHATSAPP+✨;🚀+DORO-BOT+PREMIUM+EDITION+🚀;⚡+VELOCIDAD+SUPERSÓNICA+⚡;🎯+FUNCIONES+ILIMITADAS+🎯;💎+INTELIGENCIA+ARTIFICIAL+💎;🔥+DISPONIBLE+24%2F7+🔥" alt="Typing SVG" />
+</div>
 
-
-### **`⚠️ Información importante`**
-
-<details>
- <summary><b>🔱 Info • Bot</b></summary>
-
-* Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
-</details>
-
-<details>
- <summary><b>🚀 Funcionalidades Principales</b></summary>
-
-> Bot en desarrollo. Si presenta alguna falla, reportar al creador para darle una solución óptima.
-
-- [x] 🎙️ Interacción con voz y texto
-- [x] ⚙️ Configuración de grupo avanzada
-- [x] 🛡️ Protección: antidelete, antilink, antispam, etc.
-- [x] 🎉 Bienvenida personalizada con imágenes
-- [x] 🎯 Juegos interactivos: tictactoe, mate, etc.
-- [x] 🤖 Chatbot inteligente (simsimi)
-- [x] 💬 Sistema de autoresponder personalizable
-- [x] 🔥 Crear stickers HD de image/video/gif/url
-- [x] 👾 SubBot multidispositivo (Jadibot)
-- [x] 🔎 Buscador Google optimizado
-- [x] ⚔️ Juego RPG con niveles y misiones
-- [x] 🎨 Editor de imágenes para personalización
-- [x] 📲 Descarga de música y video de YouTube en alta calidad
-- [ ] 💎 Más funciones premium en desarrollo...
-
-</details>
-
-<details>
- <summary><b>🎨 PERSONALIZA TU BOT PRINCIPAL 🎨</b></summary>
-
-<div>
-
-<h3 align="center">✨ COMANDOS PARA PERSONALIZAR TU BOT ✨</h3>
-
-<div align="center">
-
-```
-🔶 PASO 1: 3dev
-```
-> Activa el modo desarrollador para personalizar tu bot
-
-```
-🔷 PASO 2: 3setmodena
-```
-> Establece el modo de nombre para tu bot
-
-```
-🔸 PASO 3: 3setbanner
-```
-> Personaliza el banner de tu bot con imágenes personalizadas
-
-```
-🔹 PASO 4: 3setname
-```
-> Cambia el nombre de tu bot a tu gusto
-
-<div align="center">
-<p>🌈 ¡DALE UN ESTILO ÚNICO A TU BOT! 🌈</p>
+<div style="background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #667eea); background-size: 400% 400%; animation: gradientShift 8s ease infinite; padding: 30px; border-radius: 25px; box-shadow: 0 20px 40px rgba(0,0,0,0.3); margin: 30px 0;">
+  <h1 style="color: white; font-family: 'Arial Black', sans-serif; text-shadow: 3px 3px 6px rgba(0,0,0,0.5); font-size: 32px; margin: 0;">
+    🌟 ¡SI TE GUSTA EL PROYECTO, DALE UNA ESTRELLA! 🌟
+  </h1>
 </div>
 
 </div>
-</details>
 
 ---
 
-### **`⬇️ Click en la imagen para descargar termux ⬇️`**
-<a
-href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><img src="https://qu.ax/finc.jpg" height="125px"></a> 
+## ⚠️ **INFORMACIÓN IMPORTANTE** ⚠️
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=F70000&width=435&center=true&random=false&width=435&lines=%E2%9A%A1%EF%B8%8F+INSTALACI%C3%93N+R%C3%81PIDA+%E2%9A%A1%EF%B8%8F;%F0%9F%94%A5+SIGUE+LOS+PASOS+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; border-left: 8px solid #ff6b6b;">
+
+> **📢 Descargo de Responsabilidad**  
+> Este proyecto no está afiliado de ninguna manera con WhatsApp, Inc. WhatsApp es una marca registrada de WhatsApp LLC, y este bot es un desarrollo independiente que no tiene ninguna relación oficial con la compañía.
+
 </div>
 
-### **`🛠️ Instalación por termux`**
+---
 
-<details>
- <summary><b>📋 Click para ver los Comandos </b></summary>
+## 🚀 **FUNCIONALIDADES PRINCIPALES**
 
-### **🔰 Instalación manual por termux**
-> Nota: Copie y pegue los comandos en termux uno por uno.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; margin: 30px 0;">
+
+<div style="background: linear-gradient(135deg, #ff6b6b 0%, #ff8e8e 100%); padding: 25px; border-radius: 20px; color: white; box-shadow: 0 15px 35px rgba(255, 107, 107, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: -50%; right: -50%; width: 100px; height: 100px; background: rgba(255,255,255,0.1); border-radius: 50%; animation: pulse 3s infinite;"></div>
+  <h3 style="margin-bottom: 15px; font-size: 20px;">🎙️ **COMUNICACIÓN AVANZADA**</h3>
+  
+  • **Interacción con voz y texto**  
+  • **Chatbot inteligente (SimSimi)**  
+  • **Sistema de autoresponder personalizable**  
+  • **Reconocimiento de comandos avanzado**
+</div>
+
+<div style="background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); padding: 25px; border-radius: 20px; color: white; box-shadow: 0 15px 35px rgba(78, 205, 196, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; bottom: -50%; left: -50%; width: 100px; height: 100px; background: rgba(255,255,255,0.1); border-radius: 50%; animation: pulse 3s infinite 1s;"></div>
+  <h3 style="margin-bottom: 15px; font-size: 20px;">🛡️ **PROTECCIÓN TOTAL**</h3>
+  
+  • **Antidelete, antilink, antispam**  
+  • **Configuración de grupo avanzada**  
+  • **Bienvenida personalizada con imágenes**  
+  • **Sistema de moderación automática**
+</div>
+
+<div style="background: linear-gradient(135deg, #45b7d1 0%, #96ceb4 100%); padding: 25px; border-radius: 20px; color: white; box-shadow: 0 15px 35px rgba(69, 183, 209, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: -30%; left: 50%; width: 80px; height: 80px; background: rgba(255,255,255,0.1); border-radius: 50%; animation: pulse 3s infinite 2s;"></div>
+  <h3 style="margin-bottom: 15px; font-size: 20px;">🎮 **ENTRETENIMIENTO**</h3>
+  
+  • **Juegos interactivos: TicTacToe, Mate**  
+  • **Juego RPG con niveles y misiones**  
+  • **Editor de imágenes personalizado**  
+  • **Sistema de economía virtual**
+</div>
+
+<div style="background: linear-gradient(135deg, #feca57 0%, #ff9ff3 100%); padding: 25px; border-radius: 20px; color: white; box-shadow: 0 15px 35px rgba(254, 202, 87, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; bottom: -40%; right: -40%; width: 120px; height: 120px; background: rgba(255,255,255,0.1); border-radius: 50%; animation: pulse 3s infinite 0.5s;"></div>
+  <h3 style="margin-bottom: 15px; font-size: 20px;">💎 **FUNCIONES PREMIUM**</h3>
+  
+  • **Crear stickers HD (image/video/gif/url)**  
+  • **SubBot multidispositivo (Jadibot)**  
+  • **Descarga YouTube en alta calidad**  
+  • **API personalizada incluida**
+</div>
+
+</div>
+
+<div style="text-align: center; margin: 30px 0; padding: 25px; background: linear-gradient(45deg, #667eea, #764ba2, #f093fb); background-size: 300% 300%; animation: gradientShift 6s ease infinite; border-radius: 20px; color: white; box-shadow: 0 20px 40px rgba(0,0,0,0.2);">
+  <h2 style="margin: 0; font-size: 28px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔮 **MÁS FUNCIONES PREMIUM EN DESARROLLO...** 🔮</h2>
+</div>
+
+---
+
+## 🎨 **PERSONALIZA TU BOT PRINCIPAL**
+
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 15px 35px rgba(168, 237, 234, 0.3);">
+
+### ✨ **COMANDOS PARA PERSONALIZAR TU BOT** ✨
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 25px;">
+
+<div style="background: linear-gradient(135deg, #ff6b6b 0%, #ff8e8e 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 10px 25px rgba(255, 107, 107, 0.4); transform: perspective(1000px) rotateY(-5deg); transition: transform 0.3s ease;">
+  <h4 style="margin-bottom: 15px;">🔶 **PASO 1**</h4>
+  <code style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 10px; font-size: 16px; backdrop-filter: blur(5px);">3dev</code>
+  <p style="margin-top: 15px;">Activa el modo desarrollador</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 10px 25px rgba(78, 205, 196, 0.4); transform: perspective(1000px) rotateY(5deg); transition: transform 0.3s ease;">
+  <h4 style="margin-bottom: 15px;">🔷 **PASO 2**</h4>
+  <code style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 10px; font-size: 16px; backdrop-filter: blur(5px);">3setmodena</code>
+  <p style="margin-top: 15px;">Establece el modo de nombre</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #45b7d1 0%, #96ceb4 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 10px 25px rgba(69, 183, 209, 0.4); transform: perspective(1000px) rotateY(-3deg); transition: transform 0.3s ease;">
+  <h4 style="margin-bottom: 15px;">🔸 **PASO 3**</h4>
+  <code style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 10px; font-size: 16px; backdrop-filter: blur(5px);">3setbanner</code>
+  <p style="margin-top: 15px;">Personaliza el banner</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #feca57 0%, #ff9ff3 100%); padding: 25px; border-radius: 20px; text-align: center; color: white; box-shadow: 0 10px 25px rgba(254, 202, 87, 0.4); transform: perspective(1000px) rotateY(3deg); transition: transform 0.3s ease;">
+  <h4 style="margin-bottom: 15px;">🔹 **PASO 4**</h4>
+  <code style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 10px; font-size: 16px; backdrop-filter: blur(5px);">3setname</code>
+  <p style="margin-top: 15px;">Cambia el nombre del bot</p>
+</div>
+
+</div>
+
+<div align="center" style="margin-top: 30px; padding: 20px; background: linear-gradient(45deg, #667eea, #764ba2); border-radius: 20px; box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);">
+  <h3 style="color: white; font-size: 24px; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🌈 **¡DALE UN ESTILO ÚNICO A TU BOT!** 🌈</h3>
+</div>
+
+</div>
+
+---
+
+## 📱 **DESCARGA TERMUX OFICIAL**
+
+<div align="center" style="background: linear-gradient(135deg, #ff6b6b 0%, #4ecdc4 100%); padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.2);">
+  <h2 style="color: white; margin-bottom: 20px; font-size: 28px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">📲 **TERMUX PREMIUM**</h2>
+  
+  <a href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file" style="display: inline-block; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://qu.ax/finc.jpg" height="180px" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.4); border: 4px solid rgba(255,255,255,0.8); backdrop-filter: blur(10px);">
+  </a>
+  
+  <div style="margin-top: 20px; padding: 15px; background: rgba(255,255,255,0.1); border-radius: 15px; backdrop-filter: blur(5px);">
+    <p style="color: white; font-size: 18px; margin: 0;">⚡ **Versión optimizada para DORO-BOT** ⚡</p>
+  </div>
+</div>
+
+---
+
+## ⚡ **INSTALACIÓN SÚPER RÁPIDA**
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&pause=1000&color=FF6B6B&center=true&random=false&width=700&lines=⚡+INSTALACIÓN+EN+MENOS+DE+5+MINUTOS+⚡;🔥+SIGUE+ESTOS+PASOS+SIMPLES+🔥;💫+CONFIGURACIÓN+AUTOMÁTICA+💫;🚀+¡LISTO+PARA+USAR!+🚀" alt="Typing SVG" />
+</div>
+
+### 🛠️ **INSTALACIÓN POR TERMUX**
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);">
+
+#### 📋 **COMANDOS DE INSTALACIÓN**
+
+<div style="background: rgba(0,0,0,0.9); padding: 30px; border-radius: 20px; margin: 20px 0; border: 2px solid rgba(255,255,255,0.1);">
+
+**🔰 Instalación Automática - Copia y Pega**
+
 ```bash
+# Paso 1: Configurar permisos
 termux-setup-storage
 ```
 
 ```bash
+# Paso 2: Actualizar sistema e instalar dependencias
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Fer280809/Asta && cd Asta
+# Paso 3: Clonar repositorio
+git clone https://github.com/JM212343211/DORO- && cd DORO-
 ```
 
 ```bash
-sudo apt update
+# Paso 4: Instalar y ejecutar
+yarn install && npm install && npm start
 ```
 
+<div style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4); padding: 20px; border-radius: 15px; margin: 20px 0; color: white; text-align: center; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+  <h4 style="margin: 0;">⚡ **Si aparece (Y/I/N/O/D/Z) presiona "Y" + ENTER**</h4>
+</div>
+
+**🔄 Reactivar el Bot**
 ```bash
-sudo apt install nodejs npm
+cd DORO- && npm start
 ```
 
+**👑 Configurar como Owner**
 ```bash
-sudo yum install nodejs npm
+cd DORO- && nano settings.js
 ```
-
-```bash
-node -v
-npm -v
-```
-
-```bash
-yarn install 
-```
-
-```bash
-npm install
-```
-```bash
-npm update
-```
-
-```bash
-npm start
-```
-
-> Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
-
-### **🔄 Activar en caso de detenerse en termux**
-
-> Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
-
-❒ Abre Termux y navega al directorio del bot:
-   
-   ```bash
-    cd Asta_bot
-   ```
-
-❒ Inicia el bot nuevamente:
-  
-   ```bash
-    npm start
-   ```
-
-### **👑 Volverte owner del Bot**
-
-> Si después de instalar el bot en Termux y iniciar la sesión del bot deseas poner tu número en la lista de owner, usa este comando:
-
-   ```bash
-    cd Asta_bot && nano settings.js
-   ```
-
-</details>
-
-📢 EL BOT SE ACTUALIZA CADA SEMANA O MES Y SE LE HACE MANTENIMIENTO EN ESTE REPOSITORIO
-
-### **`📹 Video tutorial de instalacion`**
-
-⬇️ Click en la imagen para ir al video⬇️
-
-<a
-href="https://www.youtube.com/watch?v=SYbEOZZ__Wo"><img src="https://github.com/Fer280809/Asta_bot/blob/main/src/catalogo.jpg" height="205px"></a> 
 
 </div>
 
----
-### **`🌐 Enlaces útiles`**
+</div>
 
-<details>
- <summary><b>🚀 Enlaces Oficiales </b></summary>
-
- * ⭐ Canal Oficial  [`¡ÚNETE AHORA!`](https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21)
-* 💫 Grupo Oficial [`¡ÚNETE AHORA!`](https://chat.whatsapp.com/JONU3lLJhCf0JgCuL13gwk)
-* 🌟 Comunidad Oficial [`¡ÚNETE AHORA!`](https://chat.whatsapp.com/KKwDZn5vDAE6MhZFAcVQeO)
-</details>
-
-<details>
-<summary><b>☎️ Contactos Directos</b></summary>
-
-* 📲 WhatsApp: [`CONTÁCTANOS`](https:/Wa.me/524181450063)
-* 🔥 Solicita bot oficial: [`CONTÁCTANOS`](https://wa.me/527461177130)
-
-</details>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Fer280809/count.svg" />
-  <p>👁️ Visitantes del Repositorio 👁️</p>
+<div align="center" style="background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); padding: 25px; border-radius: 20px; margin: 30px 0; color: white; box-shadow: 0 15px 35px rgba(78, 205, 196, 0.3);">
+  <h2 style="margin-bottom: 10px;">📢 **EL BOT NO SE ACTUALIZA AUTOMÁTICAMENTE**</h2>
+  <p style="margin: 0; font-size: 18px;">✨ Mantenimiento garantizado en este repositorio ✨</p>
 </div>
 
 ---
 
-<div align="center">
-  <h2 style="background: linear-gradient(to right, #FF0000, #00FF00, #0000FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px; font-weight: bold; margin: 20px 0;">📢 ¡ÚNETE AL CANAL OFICIAL DEL BOT ASTA! 📢</h2>
-  
-  <p style="color: #FF9900; font-size: 18px; margin-bottom: 15px;">En nuestro canal estaremos compartiendo todas las novedades, actualizaciones y tips exclusivos</p>
-  
-  <a href="https://whatsapp.com/channel/0029VbAoYE99hXF1wm3zmQ21" style="display: inline-block; background: linear-gradient(to right, #25D366, #128C7E); color: white; font-weight: bold; padding: 12px 30px; text-decoration: none; border-radius: 30px; box-shadow: 0 4px 10px rgba(37, 211, 102, 0.5); transition: all 0.3s ease;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/768px-WhatsApp.svg.png" height="20px" style="vertical-align: middle; margin-right: 8px;">
-    ACCEDER AL CANAL AHORA
-  </a>
-  
-  <p style="color: #FF5252; font-size: 16px; margin-top: 15px;">💎 No te pierdas ninguna actualización importante 💎</p>
-</div>
+## 🌐 **ENLACES OFICIALES**
 
-<div align="center">
-  <h2>👑 CREADOR DEL BOT 👑</h2>
-  <a href="https://github.com/Fer280809">
-    <img src="https://github.com/Fer280809.png" width="250" height="250" alt="𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔" style="border-radius: 50%; border: 5px solid gold; box-shadow: 0 0 20px rgba(255, 215, 0, 0.7);">
-  </a>
-  <h3>𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔</h3>
-  <a href="https://github.com/Fer280809">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 25px; margin: 30px 0;">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 25px; text-align: center; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.4); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: conic-gradient(from 0deg, transparent, rgba(255,255,255,0.1), transparent); animation: rotate 10s linear infinite;"></div>
+  <h3 style="color: white; margin-bottom: 20px; font-size: 24px; position: relative; z-index: 2;">⭐ **CANAL OFICIAL**</h3>
+  <a href="https://whatsapp.com/channel/0029VbAlAEiGzzKSiL3xzr3L" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; text-decoration: none; border-radius: 30px; font-weight: bold; transition: all 0.3s ease; font-size: 16px; backdrop-filter: blur(10px); border: 2px solid rgba(255,255,255,0.3); position: relative; z-index: 2;">
+    📢 **¡ÚNETE AHORA!**
   </a>
 </div>
 
-### **`🌟 Colaboradores Destacados`**
-<a href="https://github.com/Fer280809/Asta_bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Fer280809/Asta_bot" /> 
-</a>
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 30px; border-radius: 25px; text-align: center; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.4); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; bottom: -50%; right: -50%; width: 200%; height: 200%; background: conic-gradient(from 180deg, transparent, rgba(255,255,255,0.1), transparent); animation: rotate 15s linear infinite reverse;"></div>
+  <h3 style="color: white; margin-bottom: 20px; font-size: 24px; position: relative; z-index: 2;">💫 **GRUPO OFICIAL**</h3>
+  <a href="https://chat.whatsapp.com/FH2WpUdmHrhIOjIIuQY4il" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; text-decoration: none; border-radius: 30px; font-weight: bold; transition: all 0.3s ease; font-size: 16px; backdrop-filter: blur(10px); border: 2px solid rgba(255,255,255,0.3); position: relative; z-index: 2;">
+    🎮 **¡ÚNETE AHORA!**
+  </a>
+</div>
 
-### **`🙏 Créditos`**
-<a href="https://github.com/edward-1738" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/edward-1738.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
-</a>
-</a>
-<a href="https://github.com/Aqua200" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/Aqua200.png" width="130" height="130" alt="Neykoor💜" style="border-radius: 50%;"/>
-</a>
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 30px; border-radius: 25px; text-align: center; box-shadow: 0 15px 35px rgba(250, 112, 154, 0.4); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: -30%; left: -30%; width: 160%; height: 160%; background: conic-gradient(from 45deg, transparent, rgba(255,255,255,0.1), transparent); animation: rotate 12s linear infinite;"></div>
+  <h3 style="color: white; margin-bottom: 20px; font-size: 24px; position: relative; z-index: 2;">🌟 **COMUNIDAD**</h3>
+  <a href="https://chat.whatsapp.com/Il1n6P5Agzu4SJUesVKRjT" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; text-decoration: none; border-radius: 30px; font-weight: bold; transition: all 0.3s ease; font-size: 16px; backdrop-filter: blur(10px); border: 2px solid rgba(255,255,255,0.3); position: relative; z-index: 2;">
+    👥 **¡ÚNETE AHORA!**
+  </a>
+</div>
 
-<a href="https://github.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/DevAlexJs.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
-</a>
-<a href="https://github.com/David-Chian" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/David-Chian.png" width="130" height="130" alt="David-Chian" style="border-radius: 50%;"/>
-</a>
-</a>
-<a href="https://github.com/The-King-Destroy" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜" style="border-radius: 50%;"/>
-</a>
+</div>
 
+### ☎️ **CONTACTOS DIRECTOS**
 
-<h1 align="center">⚡ EL BOT SE ACTUALIZA SEMANALMENTE ⚡</h1>
+<div align="center" style="background: linear-gradient(135deg, #ff6b6b 0%, #4ecdc4 100%); padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.2);">
+  <h3 style="color: white; margin-bottom: 25px; font-size: 24px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">📱 **SOPORTE DIRECTO**</h3>
+  
+  <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+    <a href="https://wa.me/524181450063" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 18px 35px; text-decoration: none; border-radius: 30px; font-weight: bold; transition: all 0.3s ease; font-size: 16px; backdrop-filter: blur(10px); border: 2px solid rgba(255,255,255,0.3);">
+      📲 **+52 4181450063**
+    </a>
+    <a href="https://wa.me/51930733223" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 18px 35px; text-decoration: none; border-radius: 30px; font-weight: bold; transition: all 0.3s ease; font-size: 16px; backdrop-filter: blur(10px); border: 2px solid rgba(255,255,255,0.3);">
+      🔥 **+51 930 733 223**
+    </a>
+  </div>
+</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=800&size=28&pause=1000&color=F7DE00&width=650&center=true&vCenter=true&random=false&width=650&lines=%F0%9F%94%A5+MANT%C3%89N+TU+BOT+SIEMPRE+ACTUALIZADO+%F0%9F%94%A5;%E2%AD%90+NUEVAS+FUNCIONES+CADA+SEMANA+%E2%AD%90;%F0%9F%9A%80+S%C3%8DGUENOS+EN+EL+CANAL+PARA+NOVEDADES+%F0%9F%9A%80" alt="Typing SVG" /></a>
+---
+
+## 👁️ **ESTADÍSTICAS DEL REPOSITORIO**
+
+<div align="center" style="margin: 40px 0;">
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; display: inline-block; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);">
+    <img src="https://profile-counter.glitch.me/JM212343211/count.svg" style="border-radius: 15px; border: 3px solid rgba(255,255,255,0.5);" />
+  </div>
+  <p style="color: #667eea; font-weight: bold; margin-top: 15px; font-size: 18px;">🌟 **Visitantes del Repositorio** 🌟</p>
+</div>
+
+---
+
+## 👑 **CREADOR DEL BOT**
+
+<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 50px; border-radius: 30px; margin: 50px 0; box-shadow: 0 25px 50px rgba(240, 147, 251, 0.4); position: relative; overflow: hidden;">
+  
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('data:image/svg+xml,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><defs><pattern id=\"grain\" width=\"100\" height=\"100\" patternUnits=\"userSpaceOnUse\"><circle cx=\"50\" cy=\"50\" r=\"1\" fill=\"white\" opacity=\"0.1\"/></pattern></defs><rect width=\"100\" height=\"100\" fill=\"url(%23grain)\"/></svg>'); animation: float 20s infinite linear;"></div>
+  
+  <h2 style="color: white; font-size: 40px; margin-bottom: 35px; text-shadow: 3px 3px 6px rgba(0,0,0,0.4); position: relative; z-index: 2;">🎯 **DESARROLLADOR PRINCIPAL** 🎯</h2>
+  
+  <div style="background: rgba(255,255,255,0.1); padding: 40px; border-radius: 30px; backdrop-filter: blur(15px); border: 2px solid rgba(255,255,255,0.2); position: relative; z-index: 2;">
+    <a href="https://github.com/JM212343211" style="
+
+---
+
+<div align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 40px; border-radius: 30px; margin: 40px 0; box-shadow: 0 20px 40px rgba(240, 147, 251, 0.3);">
+  <h2 style="color: white; font-size: 36px; margin-bottom: 30px; text-shadow: 2px 2px 8px rgba(0,0,0,0.3);">👑 CREADOR DEL BOT 👑</h2>
+  
+  <div style="background: rgba(255,255,255,0.1); padding: 30px; border-radius: 25px; backdrop-filter: blur(10px);">
+    <a href="https://github.com/JM212343211">
+      <img src="https://github.com/JM212343211.png" width="200" height="200" alt="JM212343211" style="border-radius: 50%; border: 8px solid rgba(255,255,255,0.8); box-shadow: 0 0 30px rgba(255, 255, 255, 0.5); transition: transform 0.3s ease;">
+    </a>
+    <h3 style="color: white; font-size: 28px; margin: 20px 0; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">JM212343211</h3>
+    <a href="https://github.com/JM212343211" style="display: inline-block; background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; text-decoration: none; border-radius: 25px; font-weight: bold; font-size: 16px; transition: all 0.3s ease;">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 10px;">
+    </a>
+  </div>
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 30px; border-radius: 25px; margin: 30px 0;">
+  <h3 style="color: #2C3E50; font-size: 28px; margin-bottom: 20px;">🌟 Colaboradores Destacados</h3>
+  <a href="https://github.com/JM212343211/DORO-/graphs/contributors" style="display: inline-block; transition: transform 0.3s ease;">
+    <img src="https://contrib.rocks/image?repo=JM212343211/DORO-" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" /> 
+  </a>
+</div>
+
+<div align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 30px; border-radius: 25px; margin: 30px 0;">
+  <h3 style="color: white; font-size: 28px; margin-bottom: 20px; text-shadow: 1px 1px 3px rgba(0,0,0,0.3);">🙏 Créditos Especiales</h3>
+  <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 20px; backdrop-filter: blur(10px);">
+    <a href="https://github.com/Fer280809" style="display:inline-block; text-decoration: none; transition: transform 0.3s ease;">
+        <img src="https://github.com/Fer280809.png" width="150" height="150" alt="Fer280809" style="border-radius: 50%; border: 5px solid rgba(255,255,255,0.8); box-shadow: 0 0 20px rgba(255,255,255,0.3);">
+    </a>
+    <h4 style="color: white; margin-top: 15px; font-size: 20px;">Fer280809</h4>
+  </div>
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FECA57); padding: 40px; border-radius: 30px; margin: 40px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.2);">
+  <h1 style="color: white; font-size: 42px; margin-bottom: 20px; text-shadow: 3px 3px 6px rgba(0,0,0,0.3);">⚡ ACTUALIZACIONES AUTOMÁTICAS ⚡</h1>
+  <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 20px; backdrop-filter: blur(10px);">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=🔥+MANTÉN+TU+BOT+SIEMPRE+AL+DÍA+🔥;⭐+NUEVAS+FUNCIONES+CADA+SEMANA+⭐;🚀+SÍGUENOS+PARA+LAS+ÚLTIMAS+NOVEDADES+🚀;💎+VERSIÓN+PREMIUM+DISPONIBLE+💎" alt="Typing SVG" />
+  </div>
+</div>
+
+<div align="center" style="margin: 50px 0;">
+  <div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 20px; border-radius: 20px; display: inline-block;">
+    <h3 style="color: white; margin: 0;">🎯 ¡Gracias por usar DORO-BOT! 🎯</h3>
+  </div>
 </div>
